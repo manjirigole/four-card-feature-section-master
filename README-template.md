@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/four-card-feature-section-master-Rf70OlAFRx
+- Live Site URL: https://manjirigole.github.io/four-card-feature-section-master/
 
 ## My process
 
@@ -41,7 +41,7 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/manjirigole
 
 
 ## Acknowledgments
